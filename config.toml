@@ -1,0 +1,52 @@
+baseURL = "https://janna.netlify.app/"
+title = "less cruel"
+theme ="hugo-theme-basic"
+languageCode = "en-us"
+googleAnalytics = "UA-XXXXXXXXX-X"
+enableEmoji = true
+copyright = "© 2016-19 <a href='https://github.com/siegerts/hugo-theme-basic'>Hugo Theme Basic</a>. Made by <a href='https://twitter.com/siegerts'>@siegerts</a>."
+description = "Basic personal site theme styled with minimal tachyons, syntax highlighting, and blog series configuration."
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+  titleEmoji = ":sparkles:"
+  # change this!
+  twitter = "janna_tay"
+
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "about"
+  url = "about/"
+
+[[params.menu]]
+  name = "all posts"
+  url = "post/"
+
+[[params.menu]]
+  name = "categories"
+  url = "categories/"
+
+[[params.menu]]
+  name = "series"
+  url = "series/"
+
+[[params.menu]]
+  name = "quote collection"
+  url = "https://merulae.tumblr.com"
+
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
