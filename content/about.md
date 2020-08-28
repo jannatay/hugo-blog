@@ -1,8 +1,6 @@
 # about
 
-I'm Janna and I'm trying to read, write, and learn more. I studied law, politics, and philosophy at university (BA/LLB(Hons)) but literature is my first (and truest) love. I was born in Malaysia, raised in New Zealand, and will be moving to Australia soon.
-
-The title of this blog comes from [Zadie Smith's answer](https://www.vanityfair.com/culture/2016/11/zadie-smith-answers-the-proust-questionnaire) to Vanity Fair's question: "If you could change one thing about yourself, what would it be?" *Less cruel.*
+I'm Janna and I'm trying to read, write, and learn more. I studied law, politics, and philosophy at university (BA/LLB(Hons)) but literature is my first (and truest) love. I was born in Malaysia and raised in New Zealand.
 
 ## writing
 
