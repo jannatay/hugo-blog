@@ -3,16 +3,16 @@ title: "moving metaphors"
 author: "Janna Tay"
 date: 2020-09-10
 draft: false
-series: []
-categories: []
-tags: []
+series:
+categories:
+tags: 
 ---
 
-*What happens if what you once used to make sense of things no longer helps you make sense of things? What happens if the patterns and habits and metaphors we lean on do not serve us in the moments we need them? What happens if the stories we tell ourselves about our lives leave us lonely, wrestling with meaning? What then?*
+*What happens if what you once used to make sense of things no longer helps you make sense of things? What happens if the patterns and habits and metaphors we lean on do not serve us in the moments we need them? What happens if the stories we tell ourselves about our lives leave us lonely, wrestling with meaning? What then?*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;—Devin Kelly, “[Out There: On Not Finishing](https://longreads.com/2020/09/08/out-there-on-not-finishing/)”
 
 
-Sabrina Orah Mark writes that the original Greek word, μεταφοραί (“*metaphorai*”), means “transports”. It is, she says, emblazoned across every moving truck in Greece. “[To metaphor is to move the contents of one house into another.](https://www.poetryfoundation.org/harriet/2020/08/metaphor-hotline-support-network)” For almost a year, I've spent no more than three months in any one house. I spent November '19 to February '20 in Sydney with trips to Auckland and Shanghai and two changes of residence. Back in Auckland, I weathered successive coronavirus lockdowns in two different houses, neither of which was my flat. I've been living out of a small black suitcase and a blue Dakine backpack, my closet like a grave of all the things I used to do and dress for: going to an office for work, to classes and tutorials, to restaurants and bars, to hiking tracks, to beaches. More fundamentally, though, I've been uprooting almost everything that I believe in — politics, religion, friendships, love, the true meaning of life. 
+Sabrina Orah Mark writes that the original Greek word, μεταφοραί (“*metaphorai*”), means “transports”. It is, she says, emblazoned across every moving truck in Greece. “[To metaphor is to move the contents of one house into another.](https://www.poetryfoundation.org/harriet/2020/08/metaphor-hotline-support-network)” For almost a year, I've spent no more than three months in any one house. I spent November '19 to February '20 in Sydney with trips to Auckland and Shanghai and two changes of residence. Back in Auckland, I weathered successive coronavirus lockdowns in two different houses, neither of which was my flat. I've been living out of a small black suitcase and a blue Dakine backpack, my closet like a grave of all the things I used to do and dress for: going to an office for work, to classes and tutorials, to restaurants and bars, to hiking tracks, to beaches. More fundamentally, though, I've been uprooting almost everything that I believe in — politics, religion, friendships, love, the true meaning of life.
 
 A few months ago, I would've turned this into a metaphor for immigration. I would've plumbed its depths to understand how my parents felt when they journeyed from Malaysia to New Zealand to start a new life with two young children, knowing barely a soul. I would've drawn conclusions that illuminated the diasporic experience and how jarring it is to feel displaced, how necessary it is to feel at home, how empowering it is to be able to find home anywhere. It's a metaphor that served me well for many years, and it was an area of my identity that certainly needed addressing. Homi Bhabha's concept of hybridity gave me great mileage and with it I swept up the fragments of the shatter I felt I was living and arranged it into something almost beautiful. I became comfortable in not quite fitting in anywhere. I sat with regret and bittersweet acceptance in having lost my mother tongue, and I learned gratitude for what I had once always scorned. It prompted me to reach out to others and build a community of people feeling equally lost and confused. So many things that would otherwise have been an irritant and that could've become far more troublesome found within me a place of peace. In essence, all I did was tell the story of myself to myself in a different way. Once the story felt right, I could lay it to rest.
 
