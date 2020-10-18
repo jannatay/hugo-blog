@@ -13,7 +13,7 @@ description = "Basic personal site theme styled with minimal tachyons, syntax hi
   tag = "tags"
 
 [params]
-  titleEmoji = ":sparkles:"
+  titleEmoji = ":herb:"
   # change this!
   twitter = "janna_tay"
 
