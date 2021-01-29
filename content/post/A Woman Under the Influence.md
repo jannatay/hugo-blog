@@ -1,5 +1,5 @@
 ---
-title: "film: a woman under the influence"
+title: "🎥 A Woman Under the Influence"
 author: "Janna Tay"
 date: 2019-05-10
 draft: false

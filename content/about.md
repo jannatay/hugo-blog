@@ -1,22 +1,15 @@
 # about
 
-I'm Janna and I'm trying to read, write, and learn more. I studied law, politics, and philosophy at university (BA/LLB(Hons)) but literature is my first (and truest) love. I was born in Malaysia and raised in New Zealand.
+I'm Janna and I'm trying to learn more. I was born in Malaysia and raised in New Zealand.
 
-## writing
+I studied law, philosophy, and politics at university. I'm in the process of becoming a lawyer and will be starting in 2021 at corporate law firm Allen & Overy. I hope to angle my way into something that touches law, philosophy, and technology, particularly after having spent two years working in legal tech. I wrote two honours dissertations — a shorter one reconfiguring privacy as trust in the context of the Fourth Amendment, and a longer one on whether statutes should be written in code.
 
-- [Rojak](https://www.killyourdarlings.com.au/article/rojak-the-fluidity-of-malaysian-identity/) *Kill Your Darlings* (2020) **essay**
-- [Return to Places Unknown](https://www.pantograph-punch.com/post/Return-to-Places-Unknown) *The Pantograph Punch* (2019), republished in *New Asian Voices* eds. Alison Wong and Paula Green (2021, *Auckland University Press*) **essay**
-- [Homecoming](http://www.proudlyasiantheatre.com/new-blog/2019/7/7/pat-chats-janna-tays-take-on-friendship-home-and-her-first-play) *Proudly Asian Theatre* (2019) **play**
-- [Micro-chapbook: Late Summer](https://ghostcitypress.com/2018-summer-microchap-series/late-summer-a-mixtape) *Ghost City Press* (2018) **poetry**
-- [Descendant](http://oscen.co/authenticity/who-made-you/descendant/) *Oscen Magazine* (2018) **poetry**
-- [Greenhouse](https://www.starlingmag.com/issue-3/janna-tay/) *Starling Magazine* (2017) **poetry**
+That aside, the arts are my first and truest love. I (used to) write poetry and essays all the time; I stopped when the reason I was writing [ran out](https://janna.netlify.app/post/moving-metaphors/), but I'm trying to find my way back to it. I started an [online magazine](http://oscen.co/), I play piano and guitar, and I am trying to get better at photo-taking with my Fujifilm X-T20.
 
-## projects etc.
-
-- [Oscen](http://oscen.co/) (est. 2018) *An online platform I co-founded, and for which I acted as Founding Editor-in-Chief*
-- [Vice Curator of the World Economic Forum Auckland Hub](https://www.globalshapers.org/hubs/auckland-hub) (2019-2020)
-- [Anthems For a Twenty-Two-Year-Old Woman](https://nanthems.tumblr.com/) (2019) *An ongoing handful of songs I picked for a friend and then wrote about, hosted on a Tumblr I built from scratch*
+Check out [some things I've done](https://janna.netlify.app/portfolio/).
 
 ## elsewhere
 
 I'm on 🐦 [Twitter](https://twitter.com/janna_tay) and 📚 [Goodreads](https://www.goodreads.com/user/show/5874093-janna) and 🎥 [Letterboxd](https://letterboxd.com/merulae/).
+
+Feel free to email me at: janna.tay96@hotmail.com

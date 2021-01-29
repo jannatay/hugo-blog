@@ -25,21 +25,20 @@ description = "Basic personal site theme styled with minimal tachyons, syntax hi
   url = "about/"
 
 [[params.menu]]
-  name = "all posts"
+  name = "portfolio"
+  url = "portfolio/"
+
+[[params.menu]]
+  name = "blog"
   url = "post/"
 
 [[params.menu]]
-  name = "categories"
+  name = "> categories"
   url = "categories/"
 
 [[params.menu]]
-  name = "series"
+  name = "> series"
   url = "series/"
-
-[[params.menu]]
-  name = "quote collection"
-  url = "https://merulae.tumblr.com"
-
 
 [privacy]
   [privacy.googleAnalytics]

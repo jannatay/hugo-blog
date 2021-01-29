@@ -1,5 +1,5 @@
 ---
-title: "book: still life with oysters and lemons"
+title: "📕 Still Life with Oysters and Lemons"
 author: "Janna Tay"
 date: 2020-05-10
 draft: false

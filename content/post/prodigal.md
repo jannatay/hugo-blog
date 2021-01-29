@@ -1,5 +1,5 @@
 ---
-title: "prodigal"
+title: "Prodigal"
 author: "Janna Tay"
 date: 2019-09-18
 draft: false
