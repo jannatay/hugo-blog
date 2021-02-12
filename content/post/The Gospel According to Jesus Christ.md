@@ -1,0 +1,27 @@
+---
+title: "📕 The Gospel According to Jesus Christ"
+author: "Janna Tay"
+date: 2021-02-12
+draft: false
+series: ["faith"]
+categories: ["reviews"]
+tags: []
+---
+## The Gospel According to Jesus Christ by José Saramago, translated by Giovanni Pontiero
+
+*A novelistic reimagining of the life of Jesus Christ, as told by an atheist.*
+
+*Finished:* 28 January 2021  
+*Rating:* ★★★☆☆
+
+In a retelling of Jesus’ life, the atheist Saramago strays from biblical account, turning the angel of Gabriel who visits Mary into Satan, turning Jesus into a mere human whom God uses as a pawn to create Christianity so He can be God of all the world instead of only the Jews. Saramago moves through scenes retold from this perspective — the miracles, Mary Magdalene, the “betrayal” by Judas Iscariot. Notably at the end, Saramago alters Jesus’ cry of “Father, forgive them for they do not know what they do” into “Men, forgive [God], for He knows not what He has done”. It’s clever, and the moment you realise what’s going on, the reward is intellectual. It feels like Saramago has solved some puzzle.
+
+For he expresses a lot of the frustrations I had about Christianity while growing up in the (Pentecostal) church. Reimagining the church as some kind of profitable scheme whether on the part of human pastors or God Himself is a thought I’ve had and believed before. He draws out the more despicable elements of God—elements which are doctrinally there, for the God of the Old Testament is indeed a jealous God (Exodus 34:14)—to paint a picture of a scheming and greedy deity who is not at all benevolent. Saramago’s account thus turns Christianity into a self-serving scam to boost the ego of God and simultaneously benefit Satan.
+
+And he’s a great, compelling storyteller. The portrayal of Jesus’ humanness was engaging, bolstered by the idea that even though the figure and his story endure, there was a real human being who had to live that life. Saramago at his most masterful points to how much ‘good’ and ‘evil’ there lies in each of us. For instance, Joseph fails to save the children of Bethlehem because he is concerned only for his own. He’s punished cruelly for it, disproportionately so. Jesus just wants to live his life as a normal dude but wrestles with religious laws and God Himself. All of this points to how arbitrary and unduly harsh the commands and punishments from God are, how there is no chance for redemption because it all serves God’s ego. Although this might ironically provide more reason to venerate Jesus, Saramago’s ultimate conclusion condemns him, for Jesus capitulates to God and goes to the cross because he couldn’t quite stick it to the man.
+
+My guess is that Saramago has done all this because if he can offer a competing, fairly logical account for what happens in the Bible, then what reason is there to believe in the supposed principles that it offers? The assumption here is that Christians hinge their principles on their belief in the truth of Jesus’ story as related in the Bible, and if that truth is corrupted, so too must their principles be. But there’s a truth in the mythical arcs and archetypes present in the Bible that goes deeper than historical and metaphysical accuracy of the belief system itself. If one can show the contradictions of a doctrine to be devastating, then the doctrinal beliefs are shattered but there still remain deeper principles of how humans can seek meaning, satisfaction, virtue, and so forth. Of course, this may well presume some sort of belief in objectivity, and maybe Saramago wants to dismantle those as well, but because it’s unclear I’m not going to assume it as his aim. So while the truth of Jesus’ life, God, Satan, and so forth can be disputed, meddling with the scenes which transmit wisdom—in the fullest sense of that word, as something passed down as humanly true—makes the whole enterprise feel like an overly simplistic atheistic jibe.
+
+If you don’t believe that something humanly (… objectively) true exists then my critique might not really hit. Again, though, on the level of this novel I don’t think that’s necessarily refuted. But nevertheless, cleverness and wisdom aren’t one and the same; Saramago has the former in spades, but in respect of the latter I find *The Gospel of Jesus Christ* wanting. Even Monty Python’s *Life of Brian* focused more on religious dogmatism, and thus made a more salient criticism. As a result, Saramago’s new invented scenes don’t carry much in the way of trying to better understand how we might live if all of that belief structure is as he makes it out to be. What comes across ultimately is bitterness, derision, and disillusionment. There’s hopelessness too, because the portrayal of humanity is accurate, and Saramago doesn’t really seek pity or compassion for his characters. That is a further disillusionment. If epitomising those emotions was the goal of the novel, then it is in that sense a triumph.
+
+To me now, however, this seems a very young sentiment or perhaps, to put it another way, only half of the equation. After recognising all of this and deciding that even if all of this turns out to be false and meaningless, even if all your beliefs turn out untrue, maturity lies in answering the question: what now? How do you act in the face of that? *Turn bitterly away from what has failed you and take it down*, seems to be the view here. I don’t know if I can live with that.
