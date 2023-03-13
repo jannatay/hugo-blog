@@ -1,5 +1,5 @@
 ---
-title: "📕 The Order of Time"
+title: "📕 An unearned poetry: on The Order of Time"
 author: "Janna Tay"
 date: 2020-03-31
 draft: false

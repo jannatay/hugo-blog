@@ -1,5 +1,5 @@
 ---
-title: "📕 The Gospel According to Jesus Christ"
+title: "📕 Against bitterness: on The Gospel According to Jesus Christ"
 author: "Janna Tay"
 date: 2021-02-12
 draft: false

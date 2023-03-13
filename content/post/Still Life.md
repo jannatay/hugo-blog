@@ -1,5 +1,5 @@
 ---
-title: "📕 Still Life with Oysters and Lemons"
+title: "📕 How to see: on Still Life with Oysters and Lemons"
 author: "Janna Tay"
 date: 2020-05-10
 draft: false

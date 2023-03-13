@@ -1,5 +1,5 @@
 ---
-title: "📕 Judas"
+title: "📕 The faithfulness of treachery: on Judas"
 author: "Janna Tay"
 date: 2021-08-27
 draft: false
@@ -26,7 +26,7 @@ Traitors are typically thought of as faithless. But the fascinating part about J
 
 Similarly, Abravanel was unable to give up his views because to him, his vision was the path and the reality he strove to uphold. For faith is necessarily tied to your understanding of how the world is and how things should be – if you're unable to take a stand about what is and isn't true or right or good, then you cannot have faith. You cannot take aim and shoot. By that token, any doubt you have ends up with little depth. This is why when Shmuel goes back on forth on his MA, his love life, his future — it all feels like he's just treading water, going nowhere. It's how I feel when I lack purpose. It's a luxury, even, to be able to sense that one is going off the path, for that would imply there was a path and knowledge of that path to begin with. 
 
-The thread, therefore, that pulls Shmuel into the fold with Judas and Abravanel is the fact that Shmuel is trying to find his direction in life and the path in light of which he can begin to have faith. (Note that I don't mean faith in the sense that we, nowadays, take it as synonymous with a religion, particularly as Shmuel declares himself an atheist.) Faith, clearly, can go wrong too. Both Judas and Abravanel stuck to their paths so doggedly and stubbornly that they failed to be properly sensitive to other aspects of reality. Judas forgot to consider Jesus the individual. Abravanel never learned to connect with his daughter Atalia. Any kind of path that encourages human flourishing, I think, has got to consider others. That's another tangent to be had, but suffice to say that extremes are never good. In that ways, blind and stubborn faith can itself be a sin. But to be so terrified of this outcome that one never begins one's life or never chooses a path is also not an answer. 
+The thread, therefore, that pulls Shmuel into the fold with Judas and Abravanel is the fact that Shmuel is trying to find his direction in life and the path in light of which he can begin to have faith. (Note that I don't mean faith in the sense that we, nowadays, take it as synonymous with a religion, particularly as Shmuel declares himself an atheist.) Faith, clearly, can go wrong too. Both Judas and Abravanel stuck to their paths so doggedly and stubbornly that they failed to be properly sensitive to other aspects of reality. Judas forgot to consider Jesus the individual. Abravanel never learned to connect with his daughter Atalia. Any kind of path that encourages human flourishing, I think, has got to consider others. That's another tangent to be had, but suffice to say that extremes are never good. In that way, blind and stubborn faith can itself be a sin. But to be so terrified of this outcome that one never begins one's life or never chooses a path is also not an answer. 
 
 And so, by the end, Shmuel begins. 
 

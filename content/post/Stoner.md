@@ -1,12 +1,12 @@
 ---
-title: "📕 Stoner"
+title: "📕 The anti-hero: on Stoner"
 author: "Janna Tay"
 date: 2021-10-04
 draft: false
 categories: ["reviews"]
 tags:
 ---
-## Stoner by John williams
+## Stoner by John Williams
 
 *A campus novel about the life of an unremarkable man.*
 

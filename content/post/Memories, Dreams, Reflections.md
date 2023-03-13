@@ -1,5 +1,5 @@
 ---
-title: "📕 Memories, Dreams, Reflections"
+title: "📕 Piercing the veil: on Memories, Dreams, Reflections"
 author: "Janna Tay"
 date: 2022-03-19
 draft: false

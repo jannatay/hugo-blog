@@ -2,7 +2,7 @@
 title: "🎥 Captain Fantastic"
 author: "Janna Tay"
 date: 2021-07-10
-draft: false
+draft: true
 categories: ["reviews"]
 tags: []
 ---
