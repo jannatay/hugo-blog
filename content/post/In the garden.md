@@ -10,10 +10,6 @@ tags: []
 
 ## In the garden
 
----
-Last updated: May 2023
----
-
 *When will they invent a machine to tell me who I am?*
 — Jacques Henri Lartigue 
 
