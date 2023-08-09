@@ -1,5 +1,5 @@
 baseURL = "https://janna.netlify.app/"
-title = "field notes"
+title = "Field Notes"
 theme ="hugo-theme-basic"
 languageCode = "en-us"
 googleAnalytics = "G-VDP9PXMZEF"
@@ -33,11 +33,11 @@ description = "Basic personal site theme styled with minimal tachyons, syntax hi
   url = "post/"
 
 [[params.menu]]
-  name = "> categories"
+  name = "•• categories"
   url = "categories/"
 
 [[params.menu]]
-  name = "> series"
+  name = "•• series"
   url = "series/"
 
 [privacy]
